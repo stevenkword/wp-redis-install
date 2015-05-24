@@ -1,0 +1,1 @@
+# wp-redis-install
